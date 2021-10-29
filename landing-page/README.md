@@ -12,6 +12,6 @@ npm start
 Run in Production:
 
 ```
-npm build
+npm run build
 ```
 

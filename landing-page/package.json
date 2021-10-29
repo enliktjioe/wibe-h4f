@@ -1,6 +1,5 @@
 {
   "name": "react-landing-page",
-  "homepage": "http://storyfromestonia.co",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
